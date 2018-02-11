@@ -1,4 +1,6 @@
 *.jpg
+*.png
+*.h5
 .ipynb_checkpoints
 *.zip
 neural_style_transfer.ipynb
